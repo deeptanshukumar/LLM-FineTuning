@@ -1,0 +1,12 @@
+tensorflow==2.12.0
+torch==1.13.1
+transformers==4.30.0
+datasets==2.12.0
+peft==0.3.0
+loralib==0.1.0
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.0
+jupyter==1.0.0
+matplotlib==3.6.2
+seaborn==0.12.2
